@@ -1,0 +1,37 @@
+body {
+    background: paleturquoise;
+}
+h1 {
+    color: green;
+    font-family:Verdana;
+    font-size:  200%; 
+    font-style: Bold;
+    text-align: center;
+    padding: 30px;
+   }
+
+h2 {
+    color: green;
+    font-family: Verdana;
+    font-size: 150%;
+    font-style: normal;
+    text-align: center;
+    padding: 30px;
+    }
+
+h3 {
+    color: green;
+    font-family: verdana;
+    font-size: 100%;
+    font-style: normal;
+    text-align: justify;
+    text-decoration: none;
+    padding: 0%;
+}
+p  {
+    color: green;
+    font-family: verdana;
+    border: 2px;
+    padding: 100px;
+    margin: 50px;
+    }
